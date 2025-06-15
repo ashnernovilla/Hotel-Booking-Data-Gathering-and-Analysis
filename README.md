@@ -68,7 +68,7 @@ To get this project up and running on your local machine, follow these steps:
     -   You can run the cells in the notebook to see the data cleaning, analysis, and visualizations.
 
 ## Project Structure
-.
+. <br>
 ├── app_scrape.py       # The main web scraping script <br>
 ├── ETL_EDA.ipynb       # Jupyter Notebook for data analysis <br>
 ├── app.txt             # Batch script to run the scraper <br>
