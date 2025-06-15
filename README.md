@@ -59,7 +59,7 @@ To get this project up and running on your local machine, follow these steps:
 ## Usage
 
 1.  **Run the Scraper**:
-    -   Execute the `app.txt` batch file. This will activate the Conda environment and run the `app_scrape.py` script.
+    -   Execute the `app.bat` batch file. This will activate the Conda environment and run the `app_scrape.py` script.
     -   You will be prompted to enter a city (**Manila** or **Davao**) and the **check-in** and **check-out dates** in `YYYY-MM-DD` format.
     -   The script will then scrape the data and save it to `hotels.db`.
 
@@ -71,7 +71,7 @@ To get this project up and running on your local machine, follow these steps:
 . <br>
 ├── app_scrape.py       # The main web scraping script <br>
 ├── ETL_EDA.ipynb       # Jupyter Notebook for data analysis <br>
-├── app.txt             # Batch script to run the scraper <br>
+├── app.bat             # Batch script to run the scraper <br>
 └── hotels.db           # SQLite database for storing data <br>
 
 
