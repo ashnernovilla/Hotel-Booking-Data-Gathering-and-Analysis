@@ -69,10 +69,10 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Project Structure
 .
-├── app_scrape.py       # The main web scraping script
-├── ETL_EDA.ipynb       # Jupyter Notebook for data analysis
-├── app.txt             # Batch script to run the scraper
-└── hotels.db           # SQLite database for storing data
+├── app_scrape.py       # The main web scraping script <br>
+├── ETL_EDA.ipynb       # Jupyter Notebook for data analysis <br>
+├── app.txt             # Batch script to run the scraper <br>
+└── hotels.db           # SQLite database for storing data <br>
 
 
 ## Data Analysis and Findings
